@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeagueTableCreatorGui",
+            "request": "launch",
+            "mainClass": "LeagueTableCreatorGui",
+            "projectName": "LeagueTableCreatorGui_5a238c5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeagueTableCreatorGui",
+            "request": "launch",
+            "mainClass": "LeagueTableCreatorGui",
+            "projectName": "java_cw2_review_f7776d6e"
+        }
+    ]
+}
